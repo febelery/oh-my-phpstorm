@@ -17,5 +17,5 @@
 - Operator Mono
 
 ## 预览
-![PHPSTORM主题](https://raw.githubusercontent.com/yesterday679/oh-my-phpstorm/master/PHPSTORM%E4%B8%BB%E9%A2%98.png)
+![PHPSTORM主题](https://https://raw.githubusercontent.com/yesterday679/oh-my-phpstorm/master/PHPSTORM%E4%B8%BB%E9%A2%98_1.png)
 
