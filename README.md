@@ -9,5 +9,9 @@
 ## 主题
 - Material Theme UI 
 
+## 字体
+- [FiraCode](https://github.com/tonsky/FiraCode)
+- Operator Mono
+
 ## 预览
 ![PHPSTORM主题](https://raw.githubusercontent.com/yesterday679/oh-my-phpstorm/master/PHPSTORM%E4%B8%BB%E9%A2%98.png)
