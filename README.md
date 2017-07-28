@@ -3,7 +3,7 @@
 ## 使用
 `File`->`Import settings`->select `settings.jar`->`restart phpstorm`
 
-## 常用插件
+## 插件
 - WakaTime ：统计PHPSTORM项目时间和语言详情
 - Color Ide 
 - CodeGlance ：代码一览
