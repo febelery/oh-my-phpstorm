@@ -8,6 +8,7 @@
 - Color Ide 
 - CodeGlance ：代码一览
 - Laravel Plugin ：laravel支持
+- CamelCase ：下划线、大些写等命名方式转换
 
 ## 主题
 - Material Theme UI 
