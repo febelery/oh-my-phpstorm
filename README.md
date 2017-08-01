@@ -8,7 +8,7 @@
 - Color Ide 
 - CodeGlance ：代码一览
 - Laravel Plugin ：laravel支持
-- CamelCase ：下划线、大些写等命名方式转换
+- CamelCase ：下划线、大小写等命名方式转换
 
 ## 主题
 - Material Theme UI 
@@ -19,4 +19,16 @@
 
 ## 预览
 ![PHPSTORM主题](https://raw.githubusercontent.com/yesterday679/oh-my-phpstorm/master/PHPSTORM%E4%B8%BB%E9%A2%98_1.png)
+
+## 快捷键
+- `Ctrl+Alt+M`  Refactor | Extract Method(重构|提取方法)
+- `Shift+Alt+U`  Switch easily between CamelCase,camelCase,snake_case and SNAKE_CASE
+- `Ctrl+Shift+U`  Toggle Case(大小写转换)
+- `Ctrl+Shift+Alt+J`  Select All Occurrences(选择所有的事件)
+- `Alt+J`  Add Selection for Next Occurrences(选择所有的事件)
+- `Ctrl+Shift+J` Join Lines(合并行)
+- `Ctrl+J` Insert Live Template(插入模板)
+- `Ctrl+D`  Duplicate Line or Selection(复制行或选择的文本)
+- `Ctrl+B`  Declaration(跳转到声明处)
+
 
