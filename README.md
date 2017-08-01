@@ -25,7 +25,8 @@
 - `Shift+Alt+U`  Switch easily between CamelCase,camelCase,snake_case and SNAKE_CASE
 - `Ctrl+Shift+U`  Toggle Case(大小写转换)
 - `Ctrl+Shift+Alt+J`  Select All Occurrences(选择所有的事件)
-- `Alt+J`  Add Selection for Next Occurrences(选择所有的事件)
+- `Alt+J`  Add Selection for Next Occurrences(选择选中事件one_by_one)
+- `Alt+Shift+J`  Unselection Occurrences(取消选择选中事件one_by_one)
 - `Ctrl+Shift+J` Join Lines(合并行)
 - `Ctrl+J` Insert Live Template(插入模板)
 - `Ctrl+D`  Duplicate Line or Selection(复制行或选择的文本)
