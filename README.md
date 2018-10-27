@@ -9,6 +9,9 @@
 - CodeGlance ：代码一览
 - Laravel Plugin ：laravel支持
 - CamelCase ：下划线、大小写等命名方式转换
+- Material Theme UI: 主题
+- gitignore
+- env support
 
 ## 主题
 - Material Theme UI 
