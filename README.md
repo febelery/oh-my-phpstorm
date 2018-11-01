@@ -20,6 +20,7 @@
 - [FiraCode](https://github.com/tonsky/FiraCode)
 - Operator Mono
 - [Hack](http://www.dafont.com/hack.font)
+- Noto Sans Mono
 
 ## 预览
 ![PHPSTORM主题](https://raw.githubusercontent.com/yesterday679/oh-my-phpstorm/master/PHPSTORM%E4%B8%BB%E9%A2%98.png)
