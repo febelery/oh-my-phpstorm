@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://www.jetbrains.com/phpstorm/"><img src="https://img.shields.io/badge/PHPSTORM-SETTING-blue.svg" alt="PHPSTORM SETTING"></a>
+</p>
+
 # oh-my-phpstorm
 
 ## 使用
