@@ -25,6 +25,7 @@
 - [FiraCode](https://github.com/tonsky/FiraCode)
 - Operator Mono
 - [Hack](http://www.dafont.com/hack.font)
+- [Cascadia code](https://github.com/microsoft/cascadia-code) 微软出的编程字体
 - **Noto Sans Mono**
 
 ## 预览
