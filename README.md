@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.jetbrains.com/phpstorm/"><img src="https://img.shields.io/badge/phpstorm-setting-blue.svg" alt="PHPSTORM SETTING"></a>
-<a href="https://github.com/yesterday679/"><img src="https://img.shields.io/badge/yesterday679-author-green.svg" alt="PHPSTORM SETTING"></a>
+<a href="https://github.com/febelery/"><img src="https://img.shields.io/badge/febelery-author-green" alt="PHPSTORM SETTING"></a>
 </p>
 
 # oh-my-phpstorm
